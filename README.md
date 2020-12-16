@@ -11,5 +11,9 @@ Tools used:
 
 3.Fritzing - design of project schematic
 
+<p align="center">
+  <img src="Picture1.jpg"/>
+</p>
+
 
 
